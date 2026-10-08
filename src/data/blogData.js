@@ -8,7 +8,7 @@ export const blogData = [
         url: ''
     },
 
-
+]
 
 
 // Do not remove any fields.
