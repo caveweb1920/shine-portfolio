@@ -16,7 +16,7 @@ export const projectsData = [
         tags: ['React', 'PHP', 'CSS', 'Lenis'],
         code: '',
         demo: 'https://hylicsketch.com',
-        image: 
+        image: ''
     },
     {
         id: 2,
@@ -25,7 +25,7 @@ export const projectsData = [
         tags: ['PHP', 'MySQL', 'javascript', 'Font Awesome'],
         code: '',
         demo: 'https://moushafihospital.com',
-        image: 
+        image: ''
     },
 
 ]
