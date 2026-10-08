@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'janedoe.test@gmail.com',
-    phone: '+915588776600',
-    address: 'Menlo Park, California, United States - 673822 ',
+    email: 'shineakhanda49@gmail.com',
+    phone: '+8801302776234',
+    address: 'Mymensingh Sadar, Mymensingh, Bangladesh -2200 ',
 
     sheetAPI: ''
 }
