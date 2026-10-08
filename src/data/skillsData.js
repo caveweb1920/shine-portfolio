@@ -10,8 +10,8 @@
     'PHP',
     'Tailwind',
     'Ubuntu',
-    'Wordpress'
-    'MongoDB'
+    'Wordpress',
+    'MongoDB',
     'MySQL',
     'PostgreSQL',
     
