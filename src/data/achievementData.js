@@ -9,22 +9,6 @@ export const achievementData = {
             field : '',
             image : ''
         },
-        {
-            id : 2,
-            title : '',
-            details : '',
-            date : '',
-            field : '',
-            image : ''
-        },
-        {
-            id : 3,
-            title : '',
-            details : '',
-            date : '',
-            field : '',
-            image : ''
-        }
 
     ]
 }
